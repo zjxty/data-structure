@@ -15,7 +15,6 @@ bin-release/
 
 #过滤掉不想要文件和文件夹
 makefile
-test.c
 *.exe
 *.sln
 *.vcxproj
